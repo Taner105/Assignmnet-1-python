@@ -1,0 +1,6 @@
+a1 = input("Please enter username.:")
+k_ad = "Yusuf"
+if k_ad == a1:
+    print("Hello {} ! The password is : W@12".format(a1))
+else:
+    print("Hello {} see you later.".format(a1))
